@@ -157,5 +157,9 @@
 	// Open the page referenced
 	"mde.keymap_disable.open_page": true,
 	// Make page reference
-	"mde.keymap_disable.make_page_reference": true
+	"mde.keymap_disable.make_page_reference": true,
+	// Setting the markdown image,you can choose absoulte 、relative 、https
+	"mde.image.save.method":"relative",
+	// 选中使用相对路径的
+	"mde.image.save.basedir":".images"
 }

@@ -172,5 +172,9 @@
     {
         "caption": "MarkdownEditing: Run markdownlint",
         "command": "markdown_lint_mdl"
+    },
+    {
+        "caption":"MarkdownEditing: Insert Image From Clipboard",
+        "command":"insert_image_from_clipboard"
     }
 ]

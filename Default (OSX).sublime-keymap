@@ -700,5 +700,6 @@
             { "key": "setting.mde.keymap_disable.open_journal", "operator": "not_equal", "operand": true },
             { "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
         ]    
-    }    
+    },
+    {"keys": ["alt+v"], "command": "insert_image_from_clipboard"}
 ]
